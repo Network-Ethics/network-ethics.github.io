@@ -37,16 +37,17 @@ This site accompanies the working group's effort to provide a summary of existin
 In addition to these sharing aims, this site also provides an opportunity for organizations and individuals to [endorse](#endorsements) these recommendations, along with a central location to house those endorsements.
 
 ## Main Recommendations
-
 The recommendations largely fall into three primary consideration domains:
 
 - Data Collection: *Consent & Confidentiality*
 - Data Use: *Analysis, Presentation, & Visualization*
 - Dava Availability: *Storage, Publication, & Sharing*
 
+Here, I think we provide an overview of the domains of the particular recommendations (not sure how much detail we want though vs. just point to the docs?). This section may be the most likely to be triaged, but for the moment, I'm essentially just mimicking the structure of Zak's old [site](https://web.archive.org/web/20251211131845/https://www.zacharyneal.com/datasharing)[^1] just to give myself an initializing framework here.
+
 ## Background
 
-I'd like to have a (brief) narrative of this project here.
+I'd like to have a (brief) narrative of this project here (though given what I did to the timeline, I don't want to put the dates in print ;) ).
 
 ## Contributors
 
@@ -64,6 +65,12 @@ I'd like to have a (brief) narrative of this project here.
 **Teves, Laura**, *Universidad Nacional de la Plata*, Argentina <br>
 **Zimmer, Michael**, *Marquette University*, USA
 
+
 ## Endorsements
 
-If you would like to add an endorsement (personal or organizational) to these recommendations, please complete [this form](https://forms.gle/f8mExDiTuVgRhpkf6).
+If you would like to add an endorsement (personal or organizational) to these recommendations, please complete [this form](https://forms.gle/f8mExDiTuVgRhpkf6). If you would like your name/organization removed from this list, email [jimi adams](mailto:jimi.adams@sc.edu).
+
+Here's where the endorsements will go as they come in. 
+
+
+[^1]: It's offline, so that's a pointer to the wayback version.
