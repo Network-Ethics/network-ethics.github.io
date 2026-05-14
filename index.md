@@ -37,8 +37,6 @@ This site accompanies the working group's effort to provide a summary of existin
   Endorse these recommendations.
 </a>
 
-In addition to these sharing aims, this site also provides an opportunity for organizations and individuals to [endorse](#endorsements) these recommendations, along with a central location to house those endorsements.
-
 ## Main Recommendations
 The recommendations largely fall into three primary consideration domains:
 
@@ -73,7 +71,7 @@ I'd like to have a (brief) narrative of this project here (though given what I d
 
 If you would like to add an endorsement (personal or organizational) to these recommendations, please complete [this form](https://forms.gle/f8mExDiTuVgRhpkf6). If you would like your name/organization removed from this list, email [jimi adams](mailto:jimi.adams@sc.edu).
 
-Here's where the endorsements will go as they come in. 
+We are currently collecting endorsements, and will soon house those here.
 
-
+_____
 [^1]: It's offline, so that's a pointer to the wayback version.
