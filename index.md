@@ -20,7 +20,7 @@ I'd like to have a (brief) narrative of this project here (though given what i d
 
 ## Team
 
-names and links to all authors' sites.
+names (w/ headshots?) and links to all authors' sites.
 
 ## Endorsements
 
