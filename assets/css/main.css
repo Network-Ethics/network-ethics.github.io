@@ -92,21 +92,20 @@ html, body {
   text-decoration: underline;
 }
 
-.endorse-button {
+a.endorse-button {
   display: inline-block;
-  background: #111;
-  color: #fff;
+  background-color: #111;
+  color: #fff !important;
   padding: 12px 18px;
   border-radius: 6px;
-  text-decoration: none;
+  text-decoration: none !important;
   font-weight: bold;
-  margin-top: 1rem;
   border: 1px solid #444;
-  transition: background 0.2s ease, border-color 0.2s ease;
+  margin-top: 1rem;
 }
 
-.endorse-button:hover {
-  background: #222;
+a.endorse-button:hover {
+  background-color: #222;
   border-color: #666;
 }
 
