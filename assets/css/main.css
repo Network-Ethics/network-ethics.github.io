@@ -64,6 +64,22 @@ html, body {
   line-height: 1.7;
 }
 
+.floating-header {
+  position: fixed;
+  top: 0;
+  left: 320px;
+  right: 0;
+  background: #ffffff;
+  padding: 15px 20px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  z-index: 1000;
+  box-sizing: border-box;
+}
+
+.content-spacer {
+  height: 90px;
+}
+
 @media (max-width: 900px) {
   #page {
     display: block;
@@ -76,5 +92,9 @@ html, body {
 
   #content {
     padding: 2rem 1.5rem 3rem;
+  }
+
+  .floating-header {
+    left: 0;
   }
 }
