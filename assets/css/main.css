@@ -92,6 +92,24 @@ html, body {
   text-decoration: underline;
 }
 
+.endorse-button {
+  display: inline-block;
+  background: #111;
+  color: #fff;
+  padding: 12px 18px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 1rem;
+  border: 1px solid #444;
+  transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.endorse-button:hover {
+  background: #222;
+  border-color: #666;
+}
+
 .content-spacer {
   height: 90px;
 }
@@ -114,19 +132,4 @@ html, body {
     left: 0;
   }
 
-<style>
-.big-button {
-    display: inline-block;
-    padding: 20px 40px;
-    font-size: 24px;
-    background-color: black;
-    color: white !important;
-    text-decoration: none;
-    border-radius: 10px;
-    transition: background-color 0.3s;
-}
-.big-button:hover {
-    background-color: #blue;
-}
-</style>
 }
