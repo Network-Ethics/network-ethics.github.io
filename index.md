@@ -16,7 +16,7 @@ Here, I think we provide a bulleted overview of the domains of particular recomm
 
 ## Background
 
-I'd like to have a (brief) narrative of this project here (though given what i did to the timeline, I don't want to put that in print ;) ).
+I'd like to have a (brief) narrative of this project here (though given what I did to the timeline, I don't want to put the dates in print ;) ).
 
 ## Team
 
@@ -27,4 +27,4 @@ names (w/ headshots?) and links to all authors' sites.
 list of those who have + instructions for how to add an endorsement.
 
 
-[^1]: Iit's offline, but so that's a pointer to the wayback version.
+[^1]: It's offline, so that's a pointer to the wayback version.
