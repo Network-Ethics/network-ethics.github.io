@@ -6,6 +6,19 @@ sidebar_description: supporting documentation from the Network Ethics Working Gr
 sidebar_image: /assets/images/sketch.png
 ---
 
+<div class="floating-header">
+  <div class="site-title">Ethics in Networks Research</div>
+  <div class="site-nav">
+    <a href="#overview">Overview</a> |
+    <a href="#main-recommendations">Recommendations</a> |
+    <a href="#background">Background</a> |
+    <a href="#contributors">Contributors</a> |
+    <a href="#endorsements">Endorsements</a>
+  </div>
+</div>
+
+<div class="content-spacer"></div>
+
 ## Overview
 
 This site accompanies the working group's effort to provide a summary of existing guidance for ethically conducting social network research. The primary products of that effort are 2-fold: 
