@@ -27,10 +27,6 @@
             <img class="avatar" src="{{ page.sidebar_image | relative_url }}" alt="">
           {% endif %}
 
-          <h1 class="sidebar-title">
-            {{ page.sidebar_title | default: site.sidebar_title | default: site.title }}
-          </h1>
-
           <p class="tagline">
             {{ page.sidebar_description | default: site.sidebar_description | default: site.description }}
           </p>
