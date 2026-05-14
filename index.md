@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Ethics in Networks Research
-
 sidebar_title: Network Ethics
 sidebar_tagline: supporting documentation from the Network Ethics Working Group
 sidebar_image: /assets/images/sketch.png
