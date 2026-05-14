@@ -12,7 +12,7 @@ Here I think we summarize the aims, and provide pointers to the *Network Science
 
 ## Main Recommendations
 
-Here, I think we provide a bulleted overview of the domains of particular recommendations. This section may be the most likely to be triaged, but for the moment, I'm essentially mimicking the structure of Zak's old [site](https://web.archive.org/web/20251211131845/https://www.zacharyneal.com/datasharing)^[it's offline, but so that's a pointer to the wayback version] just to give myself a framework here.
+Here, I think we provide a bulleted overview of the domains of particular recommendations. This section may be the most likely to be triaged, but for the moment, I'm essentially mimicking the structure of Zak's old [site](https://web.archive.org/web/20251211131845/https://www.zacharyneal.com/datasharing)[^1] just to give myself an initializing framework here.
 
 ## Background
 
@@ -25,3 +25,6 @@ names and links to all authors' sites.
 ## Endorsements
 
 list of those who have + instructions for how to add an endorsement.
+
+
+[^1]: Iit's offline, but so that's a pointer to the wayback version.
