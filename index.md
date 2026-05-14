@@ -8,24 +8,20 @@ sidebar_image: /assets/images/sketch.png
 
 ## Overview
 
-A short description of the project.
+Here I think we summarize the aims, and provide pointers to the *Network Science* paper, and host the 2-pager once we have it in a polished formatting.
 
 ## Main Recommendations
 
-- Feature one
-- Feature two
-- Feature three
+Here, I think we provide a bulleted overview of the domains of particular recommendations. This section may be the most likely to be triaged, but for the moment, I'm essentially mimicking the structure of Zak's old [site](https://web.archive.org/web/20251211131845/https://www.zacharyneal.com/datasharing)^[it's offline, but so that's a pointer to the wayback version] just to give myself a framework here.
 
 ## Background
 
-Add 2–3 project notes or screenshots here.
+I'd like to have a (brief) narrative of this project here (though given what i did to the timeline, I don't want to put that in print ;) ).
 
 ## Team
 
-- GitHub
-- Demo
-- Contact
+names and links to all authors' sites.
 
 ## Endorsements
 
-email@example.com
+list of those who have + instructions for how to add an endorsement.
