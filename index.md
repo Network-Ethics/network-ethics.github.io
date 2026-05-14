@@ -7,7 +7,7 @@ sidebar_image: /assets/images/sketch.png
 ---
 
 <div class="floating-header">
-  <div class="site-title">Ethics in Networks Research</div>
+  <div class="site-title"><large>Ethics in Networks Research</large></div>
   <div class="site-nav">
     <a href="#overview">Overview</a> |
     <a href="#main-recommendations">Recommendations</a> |
@@ -16,8 +16,6 @@ sidebar_image: /assets/images/sketch.png
     <a href="#endorsements">Endorsements</a>
   </div>
 </div>
-
-<div class="content-spacer"></div>
 
 ## Overview
 
