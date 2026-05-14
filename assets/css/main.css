@@ -113,7 +113,8 @@ html, body {
   .floating-header {
     left: 0;
   }
-  
+
+<style>
 .big-button {
     display: inline-block;
     padding: 20px 40px;
@@ -127,5 +128,5 @@ html, body {
 .big-button:hover {
     background-color: #blue;
 }
-
+</style>
 }
