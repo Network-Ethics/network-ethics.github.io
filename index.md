@@ -1,9 +1,9 @@
 ---
 layout: default
-title: My Project
-name: My Project
-tagline: Short one-line description
-sidebar_image: /assets/images/avatar.jpg
+title: Network Ethics
+name: Ethics in Networks Research
+tagline: supporting documentation from the Network Ethics Working Group
+sidebar_image: /assets/images/sketch.png
 ---
 
 ## Overview
