@@ -9,12 +9,8 @@
   </head>
 
   <body>
-
     <div class="floating-header">
-      <div class="site-title">
-        Ethics in Networks Research
-      </div>
-
+      <div class="site-title">Ethics in Networks Research</div>
       <div class="site-nav">
         <a href="#overview">Overview</a> |
         <a href="#main-recommendations">Recommendations</a> |
@@ -25,10 +21,8 @@
     </div>
 
     <div id="page">
-
       <aside id="sidebar">
         <div class="inner">
-
           {% if page.sidebar_image %}
             <img class="avatar" src="{{ page.sidebar_image | relative_url }}" alt="">
           {% endif %}
@@ -40,20 +34,15 @@
           <p class="tagline">
             {{ page.sidebar_description | default: site.sidebar_description | default: site.description }}
           </p>
-
         </div>
       </aside>
 
       <main id="content">
         <article class="inner">
-
           <div class="content-spacer"></div>
-
           {{ content }}
-
         </article>
       </main>
-
     </div>
   </body>
 </html>

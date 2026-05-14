@@ -60,8 +60,7 @@ html, body {
   margin-bottom: 0.75rem;
 }
 
-#content p,
-#content li {
+#content p, #content li {
   line-height: 1.7;
 }
 
@@ -101,7 +100,6 @@ html, body {
 }
 
 @media (max-width: 900px) {
-
   #page {
     display: block;
   }
