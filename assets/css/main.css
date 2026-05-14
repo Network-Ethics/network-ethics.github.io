@@ -60,7 +60,8 @@ html, body {
   margin-bottom: 0.75rem;
 }
 
-#content p, #content li {
+#content p,
+#content li {
   line-height: 1.7;
 }
 
@@ -76,11 +77,31 @@ html, body {
   box-sizing: border-box;
 }
 
+.site-title {
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin-bottom: 0.35rem;
+}
+
+.site-nav {
+  font-size: 0.95rem;
+}
+
+.site-nav a {
+  color: #222;
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
 .content-spacer {
   height: 90px;
 }
 
 @media (max-width: 900px) {
+
   #page {
     display: block;
   }
