@@ -6,26 +6,26 @@ tagline: Short one-line description
 sidebar_image: /assets/images/avatar.jpg
 ---
 
-## About
+## Overview
 
 A short description of the project.
 
-## Features
+## Main Recommendations
 
 - Feature one
 - Feature two
 - Feature three
 
-## Work
+## Background
 
 Add 2–3 project notes or screenshots here.
 
-## Links
+## Team
 
 - GitHub
 - Demo
 - Contact
 
-## Contact
+## Endorsements
 
 email@example.com
