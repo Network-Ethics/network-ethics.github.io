@@ -29,29 +29,52 @@ html, body {
   width: 100%;
   border-radius: 6px;
   margin-bottom: 1rem;
+  display: block;
 }
 
-#sidebar h1 {
+#sidebar .sidebar-title {
   font-size: 2rem;
-  margin: 0 0 0.5rem;
+  line-height: 1.1;
+  margin: 0 0 0.75rem;
 }
 
 #sidebar .tagline {
-  margin: 0 0 1rem;
+  margin: 0;
   opacity: 0.8;
+  line-height: 1.5;
 }
 
 #content {
   flex: 1;
   padding: 4rem 3rem;
   max-width: 900px;
+  box-sizing: border-box;
 }
 
 #content .inner {
   max-width: 720px;
 }
 
+#content h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+#content p, #content li {
+  line-height: 1.7;
+}
+
 @media (max-width: 900px) {
-  #page { display: block; }
-  #sidebar { width: auto; }
+  #page {
+    display: block;
+  }
+
+  #sidebar {
+    width: auto;
+    padding: 2rem 1.5rem;
+  }
+
+  #content {
+    padding: 2rem 1.5rem 3rem;
+  }
 }
