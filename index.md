@@ -30,10 +30,13 @@ This site accompanies the working group's effort to provide a summary of existin
     <img src="assets/images/network_science.jpg" width="150" style="display: inline-block;" /> </a>
 </div>
 
-- The [**Summary Document**](assets/images/ExecSummary.pdf) is intended as a helpful resource for researchers to share with ethics review committees who are unfamiliar with network methods and therefore may require distilled accounts of the field's current best practices.
+- The [**summary document**](assets/images/ExecSummary.pdf) is intended as a helpful resource for researchers to share with ethics review committees who are unfamiliar with network methods and therefore may require distilled accounts of the field's current best practices.
 - The [**full article**](https://www.cambridge.org/core/journals/network-science) (link forthcoming upon publication) provides the more thorough basis of the recommendations, along with documented elaboration of the literature from which those have been drawn.
 
 In addition to these sharing aims, this site also provides an opportunity for organizations and individuals to [endorse](#endorsements) these recommendations, along with a central location to house those endorsements.
+<div style="text-align: center;">
+  <a href="https://forms.gle/f8mExDiTuVgRhpkf6" class="big-button">Endorse these recommendations.</a>
+</div>
 
 ## Main Recommendations
 The recommendations largely fall into three primary consideration domains:

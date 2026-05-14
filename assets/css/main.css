@@ -113,4 +113,19 @@ html, body {
   .floating-header {
     left: 0;
   }
+  
+.big-button {
+    display: inline-block;
+    padding: 20px 40px;
+    font-size: 24px;
+    background-color: #28a745;
+    color: white !important;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+}
+.big-button:hover {
+    background-color: #218838;
+}
+
 }
