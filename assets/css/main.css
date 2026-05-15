@@ -5,7 +5,6 @@ html, body {
   font-family: Arial, sans-serif;
   background: #fff;
   color: #222;
-  scroll-padding-top: 50px;
   scroll-behavior: smooth;
 }
 
@@ -90,6 +89,15 @@ html, body {
 #content h2 {
   margin-top: 2rem;
   margin-bottom: 0.75rem;
+}
+
+#content h2[id]::before {
+  content: "";
+  display: block;
+  height: 95px;
+  margin-top: -95px;
+  visibility: hidden;
+  pointer-events: none;
 }
 
 #content p, #content li {
