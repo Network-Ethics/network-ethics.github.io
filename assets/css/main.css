@@ -47,6 +47,13 @@ html, body {
   font-size: 0.85rem;
   opacity: 0.75;
   border-top: 1px solid rgba(255,255,255,0.2);
+
+  line-height: 1.5;
+  overflow-wrap: break-word;
+}
+
+#sidebar .sidebar-footer img {
+  vertical-align: text-bottom;
 }
 
 #content {
