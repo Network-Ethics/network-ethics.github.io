@@ -5,7 +5,7 @@ html, body {
   font-family: Arial, sans-serif;
   background: #fff;
   color: #222;
-  scroll-padding-top: 80px;
+  scroll-padding-top: 50px;
   scroll-behavior: smooth;
 }
 
