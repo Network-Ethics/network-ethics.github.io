@@ -5,6 +5,8 @@ html, body {
   font-family: Arial, sans-serif;
   background: #fff;
   color: #222;
+  scroll-padding-top: 120px;
+  scroll-behavior: smooth;
 }
 
 #page {
@@ -88,7 +90,7 @@ html, body {
 #content h2 {
   margin-top: 2rem;
   margin-bottom: 0.75rem;
-  scroll-margin-top: 220px;
+  scroll-margin-top: 120px;
 }
 
 #content p, #content li {
