@@ -12,48 +12,37 @@ html, body {
   min-height: 100vh;
 }
 
-#sidebar {
-  width: 320px;
-  background: #111;
-  color: #fff;
-  padding: 3rem 2rem;
-  box-sizing: border-box;
-}
-
-#sidebar .inner {
-  position: sticky;
-  top: 2rem;
-  display: flex;
-  flex-direction: column;
-  min-height: calc(100vh - 4rem);
-}
-
-#sidebar .avatar {
-  width: 100%;
-  border-radius: 6px;
-  margin-bottom: 1rem;
-  display: block;
-}
-
-#sidebar .tagline {
-  margin: 0;
-  opacity: 0.8;
-  line-height: 1.5;
-}
-
 #sidebar .sidebar-footer {
   margin-top: auto;
   padding-top: 1rem;
-  font-size: 0.85rem;
-  opacity: 0.75;
   border-top: 1px solid rgba(255,255,255,0.2);
-
-  line-height: 1.5;
-  overflow-wrap: break-word;
+  font-size: 0.72rem;
+  line-height: 1.35;
+  opacity: 0.78;
+  max-width: 100%;
 }
 
-#sidebar .sidebar-footer img {
-  vertical-align: text-bottom;
+#sidebar .sidebar-footer a {
+  color: inherit;
+}
+
+#sidebar .sidebar-footer-text {
+  overflow-wrap: anywhere;
+}
+
+#sidebar .sidebar-footer-icons {
+  display: flex;
+  gap: 0.15rem;
+  align-items: center;
+  margin-top: 0.35rem;
+  flex-wrap: nowrap;
+}
+
+#sidebar .sidebar-footer-icons img {
+  width: 0.85em;
+  height: 0.85em;
+  display: block;
+  flex: 0 0 auto;
 }
 
 #content {
