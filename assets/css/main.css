@@ -95,7 +95,7 @@ html, body {
   content: "";
   display: block;
   height: 95px;
-  margin-top: -95px;
+  margin-top: -45px;
   visibility: hidden;
   pointer-events: none;
 }
