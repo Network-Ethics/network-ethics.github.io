@@ -74,7 +74,3 @@ We therefore assembled a team that included a range of perspectives (e.g., metho
 If you would like to add an endorsement (personal or organizational) to these recommendations, please complete [this form](https://forms.gle/f8mExDiTuVgRhpkf6). If you would like your name/organization removed from this list, email [jimi adams](mailto:jimi.adams@sc.edu).
 
 We are currently collecting endorsements, and will soon house those here.
-
-<div class="sidebar-footer">
-  This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-</div>
