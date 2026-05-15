@@ -42,13 +42,15 @@ The recommendations largely fall into three primary consideration domains:
 
 - Data Collection: *Consent & Confidentiality*
 - Data Use: *Analysis, Presentation, & Visualization*
-- Dava Availability: *Storage, Publication, & Sharing*
-
-Here, I think we provide an overview of the domains of the particular recommendations (not sure how much detail we want though vs. just point to the docs?). This section may be the most likely to be triaged, but for the moment, I'm essentially just mimicking the structure of Zak's old [site](https://web.archive.org/web/20251211131845/https://www.zacharyneal.com/datasharing)[^1] just to give myself an initializing framework here.
+- Data Availability: *Storage, Publication, & Sharing*
 
 ## Background
 
-I'd like to have a (brief) narrative of this project here (though given what I did to the timeline, I don't want to put the dates in print ;) ).
+Network research faces many of the same ethical considerations shared across the social and behavioral sciences, but also encounters unique elements given the nature of relational data and analyses. For decades, the resulting approaches to establishing ethical standards remained a relatively hodgepodge collection that often arose from individual researchers’ negotiations with their local IRBs/RECs. Fortunately, over this time, a range of strategies converged on dimensions of collective agreement.
+
+Our project's purpose was therefore to distill that convergence in a way that would make these processes less cumbersome for researchers to navigate. In particular, we wanted to produce a useful resource researchers could draw on to demonstrate and justify the ethically appropriate aspects of their research to review boards who frequently aren't attuned to dealing with this intersection. A key principle in our efforts was to consolidate existing best practices and facilitate their usage, not to impose new restrictions or requirements.
+
+We therefore assembled a team that seeking wide range (methodological, disciplinary, geographic). While ethical standards are often the purview of professional academic societies, network research spans too many for this approach to be viable. So we especially sought to incorporate worked variously in the "social network" *and* "network science" traditions of the field & account for approaches that would apply to this range of needs. We're excited to share the results of these efforts, and hope they facilitate continued advances in network research.
 
 ## Contributors
 
@@ -73,5 +75,3 @@ If you would like to add an endorsement (personal or organizational) to these re
 
 We are currently collecting endorsements, and will soon house those here.
 
-_____
-[^1]: It's offline, so that's a pointer to the wayback version.
