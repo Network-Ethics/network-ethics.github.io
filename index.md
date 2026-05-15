@@ -19,7 +19,7 @@ sidebar_image: /assets/images/sketch.png
 
 ## Overview
 
-This site accompanies the working group's effort to provide a summary of existing guidance for ethically conducting social network research. The primary products of that effort are 2-fold: 
+This site accompanies our working group's effort to provide a summary of existing guidance for ethically conducting social network research. The primary products of that effort are two-fold: 
 
  <div style="float: right; display: flex; gap: 10px; margin-left: 20px;">
   <a href="assets/images/ExecSummary.pdf">
@@ -29,7 +29,7 @@ This site accompanies the working group's effort to provide a summary of existin
 </div>
 
 - The [**summary document**](assets/images/ExecSummary.pdf) is intended as a helpful resource for researchers to share with ethics review committees who are unfamiliar with network methods and therefore may require distilled accounts of the field's current best practices.
-- The [**full article**](https://www.cambridge.org/core/journals/network-science) (link forthcoming upon publication) provides the more thorough basis of the recommendations, along with documented elaboration of the literature from which those have been drawn.
+- The [**full article**](https://www.cambridge.org/core/journals/network-science) (link forthcoming upon publication) provides the more thorough basis of the recommendations, along with elaborating details of principles and applications in the literature from which we drew these recommendations.
 
 <div style="text-align: center; margin: 2rem 0;">
   <a class="endorse-button" href="https://forms.gle/f8mExDiTuVgRhpkf6">
@@ -48,9 +48,9 @@ The recommendations largely fall into three primary consideration domains:
 
 Network research faces many of the same ethical considerations shared across the social and behavioral sciences, but also encounters unique elements given the nature of relational data and analyses. For decades, the resulting approaches to establishing ethical standards remained a relatively hodgepodge collection that often arose from individual researchers’ negotiations with their local IRBs/RECs. Fortunately, over this time, a range of strategies converged on dimensions of collective agreement.
 
-Our project's purpose was therefore to distill that convergence in a way that would make these processes less cumbersome for researchers to navigate. In particular, we wanted to produce a useful resource researchers could draw on to demonstrate and justify the ethically appropriate aspects of their research to review boards who frequently aren't attuned to dealing with this intersection. A key principle in our efforts was to consolidate existing best practices and facilitate their usage, not to impose new restrictions or requirements.
+Our project's purpose was therefore to distill that convergence in a way that would make these processes less cumbersome for researchers to navigate and implement in their own work. In particular, we wanted to produce a useful resource researchers could draw on to demonstrate and justify the ethically appropriate aspects of their research to review boards who frequently aren't attuned to dealing with the combined needs of network research. A key principle in our efforts was to consolidate existing best practices and facilitate their usage, not to impose new restrictions or requirements.
 
-We therefore assembled a team that seeking wide range (methodological, disciplinary, geographic). While ethical standards are often the purview of professional academic societies, network research spans too many for this approach to be viable. So we especially sought to incorporate worked variously in the "social network" *and* "network science" traditions of the field & account for approaches that would apply to this range of needs. We're excited to share the results of these efforts, and hope they facilitate continued advances in network research.
+We therefore assembled a team that included a range of perspectives (e.g., methodological, disciplinary, geographic). While ethical standards are often the purview of professional academic societies, network research spans too many for this approach to be viable. So we especially sought to incorporate those who have worked variously in the "social network" *and* "network science" traditions of the field & to account for approaches that would apply to this range of needs. We're excited to share the results of these efforts, and hope they facilitate continued advances in network research.
 
 ## Contributors
 
