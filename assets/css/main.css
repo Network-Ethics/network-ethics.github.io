@@ -5,7 +5,6 @@ html, body {
   font-family: Arial, sans-serif;
   background: #fff;
   color: #222;
-  scroll-behavior: smooth;
 }
 
 #page {
@@ -53,7 +52,12 @@ html, body {
 }
 
 #sidebar .sidebar-footer a {
-  color: inherit;
+  color: #fff;
+  text-decoration: none;
+}
+
+#sidebar .sidebar-footer a:hover {
+  text-decoration: underline;
 }
 
 #sidebar .sidebar-footer-text {
@@ -91,11 +95,11 @@ html, body {
   margin-bottom: 0.75rem;
 }
 
-#content h2[id]::before {
-  content: "";
+.section-anchor {
   display: block;
-  height: 95px;
-  margin-top: -45px;
+  position: relative;
+  top: -90px;
+  height: 0;
   visibility: hidden;
   pointer-events: none;
 }

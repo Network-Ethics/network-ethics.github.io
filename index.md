@@ -9,13 +9,15 @@ sidebar_image: /assets/images/sketch.png
 <div class="floating-header">
   <div class="site-title"><large>Ethics in Networks Research</large></div>
   <div class="site-nav">
-    <a href="#overview">Overview</a> |
-    <a href="#main-recommendations">Recommendations</a> |
-    <a href="#background">Background</a> |
-    <a href="#contributors">Contributors</a> |
-    <a href="#endorsements">Endorsements</a>
+    <a href="#overview-anchor">Overview</a> |
+    <a href="#main-recommendations-anchor">Recommendations</a> |
+    <a href="#background-anchor">Background</a> |
+    <a href="#contributors-anchor">Contributors</a> |
+    <a href="#endorsements-anchor">Endorsements</a>
   </div>
 </div>
+
+<span id="overview-anchor" class="section-anchor"></span>
 
 ## Overview
 
@@ -37,12 +39,16 @@ This site accompanies our working group's effort to provide a summary of existin
   </a>
 </div>
 
+<span id="main-recommendations-anchor" class="section-anchor"></span>
+
 ## Main Recommendations
 The recommendations largely fall into three primary consideration domains:
 
 - Data Collection: *Consent & Confidentiality*
 - Data Use: *Analysis, Presentation, & Visualization*
 - Data Availability: *Storage, Publication, & Sharing*
+
+<span id="background-anchor" class="section-anchor"></span>
 
 ## Background
 
@@ -51,6 +57,8 @@ Network research faces many of the same ethical considerations shared across the
 Our project's purpose was therefore to distill that convergence in a way that would make these processes less cumbersome for researchers to navigate and implement in their own work. In particular, we wanted to produce a useful resource researchers could draw on to demonstrate and justify the ethically appropriate aspects of their research to review boards who frequently aren't attuned to dealing with the combined needs of network research. A key principle in our efforts was to consolidate existing best practices and facilitate their usage, not to impose new restrictions or requirements.
 
 We therefore assembled a team that included a range of perspectives (e.g., methodological, disciplinary, geographic). While ethical standards are often the purview of professional academic societies, network research spans too many for this approach to be viable. So we especially sought to incorporate those who have worked variously in the "social network" *and* "network science" traditions of the field & to account for approaches that would apply to this range of needs. We're excited to share the results of these efforts, and hope they facilitate continued advances in network research.
+
+<span id="contributors-anchor" class="section-anchor"></span>
 
 ## Contributors
 
@@ -68,6 +76,8 @@ We therefore assembled a team that included a range of perspectives (e.g., metho
 **Teves, Laura**, *Universidad Nacional de la Plata*, Argentina <br>
 **Zimmer, Michael**, *Marquette University*, USA
 
+
+<span id="endorsements-anchor" class="section-anchor"></span>
 
 ## Endorsements
 
