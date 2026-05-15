@@ -12,13 +12,42 @@ html, body {
   min-height: 100vh;
 }
 
+#sidebar {
+  width: 320px;
+  background: #111;
+  color: #fff;
+  padding: 3rem 2rem;
+  box-sizing: border-box;
+}
+
+#sidebar .inner {
+  position: sticky;
+  top: 2rem;
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh - 4rem);
+}
+
+#sidebar .avatar {
+  width: 100%;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+#sidebar .tagline {
+  margin: 0;
+  opacity: 0.8;
+  line-height: 1.5;
+}
+
 #sidebar .sidebar-footer {
   margin-top: auto;
   padding-top: 1rem;
-  border-top: 1px solid rgba(255,255,255,0.2);
   font-size: 0.72rem;
   line-height: 1.35;
   opacity: 0.78;
+  border-top: 1px solid rgba(255,255,255,0.2);
   max-width: 100%;
 }
 
@@ -32,15 +61,15 @@ html, body {
 
 #sidebar .sidebar-footer-icons {
   display: flex;
-  gap: 0.15rem;
+  gap: 0.2rem;
   align-items: center;
   margin-top: 0.35rem;
   flex-wrap: nowrap;
 }
 
 #sidebar .sidebar-footer-icons img {
-  width: 0.85em;
-  height: 0.85em;
+  width: 12px;
+  height: 12px;
   display: block;
   flex: 0 0 auto;
 }
@@ -138,5 +167,4 @@ a.endorse-button:hover {
   .floating-header {
     left: 0;
   }
-
 }
