@@ -90,7 +90,6 @@ html, body {
 #content h2 {
   margin-top: 2rem;
   margin-bottom: 0.75rem;
-  scroll-margin-top: 120px;
 }
 
 #content p, #content li {
