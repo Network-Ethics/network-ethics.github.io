@@ -173,13 +173,11 @@ a.endorse-button:hover {
   #page {
     display: block;
   }
-  .sidebar-content {
-    padding-top: 80px;
-  }
-  
+
   #sidebar {
     width: auto;
     padding: 2rem 1.5rem;
+    padding-top: 80px;
   }
 
   #content {
