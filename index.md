@@ -23,11 +23,20 @@ sidebar_image: /assets/images/sketch.png
 
 This site accompanies our working group's effort to provide a summary of existing guidance for ethically conducting social network research. The primary products of that effort are two-fold: 
 
- <div style="float: right; display: flex; gap: 10px; margin-left: 20px;">
+<div style="float: right; display: flex; gap: 10px; margin-left: 20px; align-items: flex-start;">
+
   <a href="assets/images/ExecSummary.pdf">
-    <img src="assets/images/ExecSummary.png" width="170" class="sideimg" style="display: inline-block;"/> 
+    <img src="assets/images/ExecSummary.png"
+         class="sideimg"
+         style="display: inline-block;" />
+  </a>
+
   <a href="https://www.cambridge.org/core/journals/network-science">
-    <img src="assets/images/network_science.jpg" width="150" class="sideimg" style="display: inline-block;" /> </a>
+    <img src="assets/images/network_science.jpg"
+         class="sideimg"
+         style="display: inline-block;" />
+  </a>
+
 </div>
 
 - The [**summary document**](assets/images/ExecSummary.pdf) is intended as a helpful resource for researchers to share with ethics review committees who are unfamiliar with network methods and therefore may require distilled accounts of the field's current best practices.
