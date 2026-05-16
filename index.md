@@ -25,7 +25,7 @@ This site accompanies our working group's effort to provide a summary of existin
 
  <div style="float: right; display: flex; gap: 10px; margin-left: 20px;">
   <a href="assets/images/ExecSummary.pdf">
-    <img src="assets/images/ExecSummary.png" width="150" style="display: inline-block;"/> </a>
+    <img src="assets/images/ExecSummary.png" width="170" style="display: inline-block;"/> </a>
   <a href="https://www.cambridge.org/core/journals/network-science">
     <img src="assets/images/network_science.jpg" width="150" style="display: inline-block;" /> </a>
 </div>
