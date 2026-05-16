@@ -43,7 +43,7 @@ This site accompanies our working group's effort to provide a summary of existin
   </a>
 </div>
 
-<span id="main-recommendations-anchor" class="section-anchor"></span>
+<span id="background-anchor" class="section-anchor"></span>
 
 ## Background
 
