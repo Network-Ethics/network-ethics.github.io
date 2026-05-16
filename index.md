@@ -10,7 +10,6 @@ sidebar_image: /assets/images/sketch.png
   <div class="site-title"><large>Ethics in Networks Research</large></div>
   <div class="site-nav">
     <a href="#overview-anchor">Overview</a> |
-    <a href="#main-recommendations-anchor">Recommendations</a> |
     <a href="#background-anchor">Background</a> |
     <a href="#contributors-anchor">Contributors</a> |
     <a href="#endorsements-anchor">Endorsements</a>
@@ -45,15 +44,6 @@ This site accompanies our working group's effort to provide a summary of existin
 </div>
 
 <span id="main-recommendations-anchor" class="section-anchor"></span>
-
-## Main Recommendations
-The recommendations largely fall into three primary consideration domains:
-
-- Data Collection: *Consent & Confidentiality*
-- Data Use: *Analysis, Presentation, & Visualization*
-- Data Availability: *Storage, Publication, & Sharing*
-
-<span id="background-anchor" class="section-anchor"></span>
 
 ## Background
 
