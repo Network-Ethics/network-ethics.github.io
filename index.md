@@ -28,14 +28,14 @@ This site accompanies our working group's effort to provide a summary of existin
          style="height: 250px !important; width: auto !important; display: block;" />
   </a>
 
-  <a href="https://www.cambridge.org/core/journals/network-science">
+  <a href="https://doi.org/10.1017/nws.2026.10034">
     <img src="assets/images/network_science.jpg"
          style="height: 250px !important; width: auto !important; display: block;" />
   </a>
 </div>
 
 - The [**summary document**](assets/images/ExecSummary.pdf) is intended as a helpful resource for researchers to share with ethics review committees who are unfamiliar with network methods and therefore may require distilled accounts of the field's current best practices.
-- The [**full article**](https://www.cambridge.org/core/journals/network-science) (link forthcoming upon publication) provides the more thorough basis of the recommendations, along with elaborating details of principles and applications in the literature from which we drew these recommendations.
+- The [**full article**](https://doi.org/10.1017/nws.2026.10034) provides the more thorough basis of the recommendations, along with elaborating details of principles and applications in the literature from which we drew these recommendations.
 
 <div style="text-align: center; margin: 2rem 0;">
   <a class="endorse-button" href="https://forms.gle/f8mExDiTuVgRhpkf6">
